@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(241, 242, 243);
+    font-family: 'Roboto', sans-serif;
+    color: rgb(164, 138, 125);
+    
+}
+header {
+    columns: 100px 2;
+}
+.imagen_perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0;
+    display: block;
+}
+.Nombre_curriculum {
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+.cuerpo {
+    columns: 100px 2;
+    margin: 90px;
+}
+
