@@ -1,0 +1,19 @@
+section {
+    border: 1px solid blue;
+    width: 600px;
+    height: 170px;
+}
+div {
+    margin: 5PX;
+    width: 50PX;
+    height: 150PX;
+}
+.left {
+    float: left;
+    
+}
+
+.right {
+    float: right;
+    background-color: cyan;
+}
